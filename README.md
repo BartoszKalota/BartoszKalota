@@ -1,64 +1,15 @@
 ## Contact / About Me
-<div style="display: flex; justify-content: space-between;">
-  <div style="marginright: 15px">
-    <div style="display: flex; align-items: center; margin-bottom: 10px;">
-      &#9679;
-      <img
-        src="https://cdn2.iconfinder.com/data/icons/social-media-2259/512/gmail-512.png"
-        width="20"
-        style="margin: 0 10px 0 10px"
-      />
-      Email:
-      <a
-        href="mailto:bartosz.z.kalota@gmail.com"
-        style="display: block; margin-left: 5px"
-      >bartosz.z.kalota@gmail.com</a>
-    </div>
-    <div style="display: flex; align-items: center; margin-bottom: 10px">
-      &#9679;
-      <img
-        src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"
-        width="20"
-        style="margin: 0 10px 0 10px"
-      />
-      LinkedIn:
-      <a
-        href="https://linkedin.com/in/bartosz-z-kalota"
-        style="display: block; margin-left: 5px"
-      >/in/bartosz-z-kalota</a>
-    </div>
-    <div style="display: flex; align-items: center; margin-bottom: 10px">
-      &#9679;
-      <img
-        src="http://bartoszkalota.pl/images/pdf_icon.jpg"
-        width="20"
-        style="margin: 0 10px 0 10px"
-      />
-      CV (eng):
-      <a
-        href="http://bartoszkalota.pl/files/Kalota%20-%20CV%20(IT)%20[eng].pdf"
-        style="display: block; margin-left: 5px"
-      >download</a>
-    </div>
-    <div style="display: flex; align-items: center; margin-bottom: 10px">
-      &#9679;
-      <img
-        src="http://bartoszkalota.pl/images/pdf_icon.jpg"
-        width="20"
-        style="margin: 0 10px 0 10px"
-      />
-      CV (pl):
-      <a
-        href="http://bartoszkalota.pl/files/Kalota%20-%20CV%20(IT).pdf"
-        style="display: block; margin-left: 5px"
-      >download</a>
-    </div>
-  </div>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BartoszKalota&layout=compact&theme=dark)](https://github.com/BartoszKalota/github-readme-stats)
-</div>
+* Email: <a href="mailto:bartosz.z.kalota@gmail.com">bartosz.z.kalota@gmail.com</a>
+* LinkedIn: <a href="https://linkedin.com/in/bartosz-z-kalota">/in/bartosz-z-kalota</a>
+* CV (eng): <a href="http://bartoszkalota.pl/files/Kalota%20-%20CV%20(IT)%20[eng].pdf">download</a>
+* CV (pl): <a href="http://bartoszkalota.pl/files/Kalota%20-%20CV%20(IT).pdf">download</a>
 
 # Portfolio
+
+<a href="https://github.com/BartoszKalota/github-readme-stats">
+  <img align="center" style="margin: 10px 0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BartoszKalota&layout=compact" />
+</a>
+
 ## Main projects
 * ['Zaplanuj Jedzonko' - application and landing page](https://github.com/BartoszKalota/Zaplanuj-jedzonko)
 * ['Oddam w dobre ręce' - application](https://github.com/BartoszKalota/Oddam-w-dobre-rece)
