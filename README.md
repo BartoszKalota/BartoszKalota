@@ -24,5 +24,6 @@
 ## Back-end projects
 * [Weather comparison](https://github.com/BartoszKalota/Weather-comparison)
 * [Coffee shop management system](https://github.com/BartoszKalota/Coffee-shop-management-system)
+* [Queue system](https://github.com/BartoszKalota/Queue-system)
 * [Library - CLI](https://github.com/BartoszKalota/Library_CLI)
 * [JSON to HTML - CLI parser](https://github.com/BartoszKalota/JSON-to-HTML_CLI-parser)
