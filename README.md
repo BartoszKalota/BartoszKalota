@@ -7,7 +7,7 @@
 # Portfolio
 
 <a href="https://github.com/BartoszKalota/github-readme-stats">
-  <img align="center" style="margin: 10px 0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BartoszKalota&layout=compact" />
+  <img align="center" style="margin: 10px 0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BartoszKalota&layout=compact&theme=dark" />
 </a>
 
 ## Main projects
